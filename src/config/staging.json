@@ -1,0 +1,10 @@
+{
+  "errorHandling" : true,
+  "port" : 3000,
+  "minify":true,
+  "bundlingEnabled":false,
+  "db":{
+    "name":"bot",
+    "port":27017
+  }
+}

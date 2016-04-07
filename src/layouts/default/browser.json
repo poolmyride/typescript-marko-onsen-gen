@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "require: onsenui/css/ionicons/css/ionicons.css",
+    "./custom-theme.styl"
+  ]
+}

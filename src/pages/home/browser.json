@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "require: marko-widgets",
+    "src/layouts/default/browser.json",
+    "src/components/app-videos/browser.json",
+    "require: onsenui/js/onsenui"
+  ]
+}

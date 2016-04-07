@@ -1,0 +1,7 @@
+
+{
+    "watch": [
+        ".",
+        "./node_modules/marko-widgets"
+    ]
+}
