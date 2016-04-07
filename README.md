@@ -16,7 +16,7 @@ Notable features:
 Note: All commands entered need to be performed from within *this directory*.
 
 
-1. From this conf-ng-js directory, install the app's node dependencies, tsd, and typings with the following commands:
+1. From the project's directory, install the app's node dependencies, tsd, and typings with the following commands:
     ```shell
     npm install
     npm install -g tsd
